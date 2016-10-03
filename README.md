@@ -1,0 +1,2 @@
+# AlgoritmaPascal
+Kumpulan Tugas Algoritma
